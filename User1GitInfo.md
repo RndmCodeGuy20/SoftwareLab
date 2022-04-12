@@ -1,0 +1,36 @@
+- 28 git --version
+- 29 mkdir FirstProject
+- 30 cd D:
+- 31 cd SWLab/
+- 32 mkdir FirstProject
+- 33 cd FirstProject/
+- 34 pwd
+- 35 ls -l
+- 36 git init
+- 37 git config --global user.name RndmCodeGuy20
+- 38 git config --global user.email shantanu.mane.200@outlook.com
+- 39 touch user1First.java user1Second.java
+- 40 git status
+- 41 git add User1First.java User1Second.java
+- 42 git status
+- 43 git commit -m "first commit"
+- 44 git log
+- 45 git status
+- 46 git show 42127948656e3433320deb64695bffba3fd9e9ec
+- 47 git status
+- 48 git add .
+- 49 git status
+- 50 git commit -m "User Program 3 added : master"
+- 51 git status
+- 52 git log
+- 53 git tag -a "v1.0" -m "Version 1 of repository" 42127948656e3433320deb64695bffba3fd9e9ec
+- 54 git log
+- 55 git tag -a "1.0.0" -m "Version 1 of repository" 42127948656e3433320deb64695bffba3fd9e9ec
+- 56 git log
+- 57 git tag -a "v1.1" -m "Version 1.1 of repository" 5736972263fdfb49c4434c5d385c45f2a5b5576b
+- 58 git log
+- 59 git tag -a "1.0.1" -m "Version 1.1 of repository" 5736972263fdfb49c4434c5d385c45f2a5b5576b
+- 60 git log
+- 61 clear
+- 62 history
+-
