@@ -7,10 +7,15 @@ public class TestFunc {
         System.out.println("Bye!!!");
     }
 
+    public void sayHey() {
+        System.out.println("Hey!!!");
+    }
+
     public static void main(String[] args) {
         TestFunc tFunc = new TestFunc();
 
         tFunc.sayHello();
         tFunc.sayBye();
+        tFunc.sayHey();
     }
 }
